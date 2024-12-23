@@ -1,0 +1,72 @@
+section[ class="container"]{
+    padding: 4rem 2rem;
+}
+@media  and (min-width: 1024){
+    section[ class="container"]{
+        padding: 4rem;
+    }
+}
+/* NAVBAR */
+.navbar-brand{
+    color: #000;
+}
+
+.navbar-nav .nav-link{
+    color: #000000;
+    font-size: 1.1rem;
+}
+@media  and (min-width: 1024) {
+    .navbar-nav .nav-item{
+        padding: 0 1rem;
+    }  
+}
+.navbar-brand{
+    font-size: 1.5rem;
+}
+
+/* HERO */
+section.hero{
+    background-color: #000000;
+    padding-top: 75px;
+}
+
+
+
+.container{
+    margin-left: 4rem;
+}
+
+.container .intro{
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.container .intro span{
+    color: #5DB9EE;
+}
+.container h2{
+    color: #000000;
+}
+.container p{
+    color: #ffff;
+}
+.card p{
+    color: #000000;
+}
+
+.fa-facebook-f{
+    font-size: 50px;
+    color: rgb(44, 44, 248);
+}
+.fa-twitter{
+    font-size: 50px;
+    color: skyblue;
+}
+.fa-youtube{
+    font-size: 50px;
+    color: red;
+}
+.fa-linkedin{
+    font-size: 50px;
+    color: #5DB9EE;
+}
